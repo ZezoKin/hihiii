@@ -9,5 +9,5 @@ var channel = "509037792991379456";
 }) 
 
 
-
+client.login(process.env.BOT_TOKEN);
 
